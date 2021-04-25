@@ -107,7 +107,7 @@ As noted in the above results summary:
 
 The airlines sector performance is assessed by using the five year historical data for the ETF Ticker JETS - US Global Jets ETF. The summary performance chart is provided below:
 
-![plot](./Images/4_Airlines.png)
+![Settings Window](https://github.com/chimdyke82/j-camp/blob/main/Images/4_Airlines.PNG)
 
 As noted in the above results summary:
 
@@ -123,7 +123,7 @@ As noted in the above results summary:
 
 The automobile sector performance is assessed by using the five year historical data for the ETF Ticker CARZ - First Trust NASDAQ Global Auto Index ETF. The summary performance chart is provided below:
 
-![plot](./Images/5_Automobiles.png)
+![Settings Window](https://github.com/chimdyke82/j-camp/blob/main/Images/5_Automobiles.PNG)
 
 As noted in the above results summary:
 
@@ -141,9 +141,9 @@ The final tab of the project dashboard provides a regression analysis of the per
 
 A sample assessment of the SP500 sector performance against new pandemic cases is provided below. The SP500 returns are obtained using the ticker IVV - iShares Core S&P 500 ETF:
 
-![plot](./Images/6_Regression1.png)
+![Settings Window](https://github.com/chimdyke82/j-camp/blob/main/Images/6_Regression1.PNG)
 
-![plot](./Images/7_Regression2.png)
+![Settings Window](https://github.com/chimdyke82/j-camp/blob/main/Images/7_Regression2.PNG)
 
 As noted in the above results summary:
 
