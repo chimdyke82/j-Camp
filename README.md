@@ -85,7 +85,7 @@ The below limitations are noted in the project and the associated final product:
 
 # **Project Results**
 
-
+## Assessment of Energy Sector Performance
 
 The energy sector performance is assessed by using the five year historical data for the ETF Ticker RYE - Invesco S&P 500 Eql Wght Energy ETF. The summary performance chart is provided below:
 
